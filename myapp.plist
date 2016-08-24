@@ -13,7 +13,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>http://mail.weknight.com:8002/ipa/微.红.ipa</string>
+     <string>http://trade.weknight.com:8002/ipa/微.红.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
